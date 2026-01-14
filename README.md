@@ -9,14 +9,18 @@ Lastest build is 9 mm wide and tested up to 500 °C.
 Design Goals
 
 100 GPa polycrystalline strength.
-100 layers, with cross‑linking to reinforce van der Waals forces and avoid graphite.
-100 mm wide, up to 10,000 mm wide for folding lengthwise.
+
+100 layers, with cross‑linking between layers to reinforce van der Waals forces and avoid graphite.
+
+100 mm wide, up to 10,000 mm wide for multiple folds lengthwise.
+
 1 km per day, up to 10,000 km per day with parallel industrial production.
+
 Robust plug‑and‑play; just add electricity and Bacardi 151 (or less hepatoxic carbon precursor).
 
+.
 
-
-1000 thanks to Peter Swan and ISEC and JSEA
+1000 thanks to Peter Swan and ISEC and JSEA And Obayashi
 
 
 
