@@ -1,6 +1,6 @@
 Click “Graphene_Machine_v52.svg” to view it in your browser.
 
-The SVG image is a 2025 drawing of the core parts of a prototype machine for continuous graphene‑tether production. Parts not shown: ethanol vaporizer, take‑up reel, and argon gas chamber.
+The animated SVG is a 2025 drawing of the core parts of a prototype machine for continuous graphene‑tether production. Parts not shown: ethanol vaporizer, take‑up reel, and argon gas chamber.
 
 A graphene tether is currently the best material to build a seed space elevator as soon as possible. The space‑elevator concept offers low‑cost access to orbit by replacing fast rocket propulsion with slow mechanical climbing. Recent ideas (Gassend 2025) suggest using the tether as both a structural element and a power‑transmission medium for longitudinal waves traveling up the 100,000 km tether.
 
