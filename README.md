@@ -4,7 +4,7 @@ The animated SVG is a 2025 drawing of the core parts of a prototype machine for 
 
 A graphene tether is currently the best material to build a seed space elevator as soon as possible. The space‑elevator concept offers low‑cost access to orbit by replacing fast rocket propulsion with slow mechanical climbing. Recent ideas (Gassend 2025) suggest using the tether as both a structural element and a power‑transmission medium for longitudinal waves traveling up the 100,000 km tether.
 
-Lastest build is 9 mm wide and tested up to 500 °C.
+Latest build is 9 mm wide and tested up to 500 °C.  Next: 700 °C and sealed environment for carbon crystalization...no Argon.
 
 Design Goals
 
