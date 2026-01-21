@@ -1,0 +1,90 @@
+# GMX Project .gitignore
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Node.js (if web tooling added)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (if automation added)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.env
+
+# Build outputs
+dist/
+build/
+*.min.js
+*.min.css
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+
+# Sensitive Files
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets/
+
+# Test outputs
+coverage/
+.nyc_output/
+test-results/
+
+# Large binary files (keep SVG originals but ignore exports)
+*.pdf
+*.ai
+*.psd
+*.sketch
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Compiled sources
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.jar
+*.war
+*.nar
+*.ear
+
+# Documentation build outputs
+docs/_build/
+site/

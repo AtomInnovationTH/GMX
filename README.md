@@ -1,28 +1,71 @@
-Click “Graphene_Machine_v52.svg” to view it in your browser.
+# Graphene Machine 🔬⚙️
 
-The animated SVG is a 2025 drawing of the core parts of a prototype machine for continuous graphene‑tether production. Parts not shown: ethanol vaporizer, take‑up reel, and argon gas chamber.
+[![View SVG](https://img.shields.io/badge/🎬_View-Animation-brightgreen?style=for-the-badge)](https://atominnovationth.github.io/GMX/Graphene_Machine_v52.svg)
+[![SVG Animation](https://img.shields.io/badge/SVG-Animation-E34F26?style=flat&logo=svg&logoColor=white)](https://github.com/AtomInnovationTH/GMX)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-A graphene tether is currently the best material to build a seed space elevator as soon as possible. The space‑elevator concept offers low‑cost access to orbit by replacing fast rocket propulsion with slow mechanical climbing. Recent ideas (Gassend 2025) suggest using the tether as both a structural element and a power‑transmission medium for longitudinal waves traveling up the 100,000 km tether.
+**Animated SVG** of a prototype machine for continuous [graphene tether](https://github.com/AtomInnovationTH/GMX) production - the key material for building a space elevator.
 
-Latest build is 9 mm wide and tested up to 500 °C.  Next: 700 °C and sealed environment for carbon crystalization...no Argon.
+## 🎬 View the Animation
 
-Design Goals
+**[► VIEW ONLINE HERE](https://atominnovationth.github.io/GMX/Graphene_Machine_v52.svg)** ← Click to start
 
-100 GPa polycrystalline strength.
+Or download and open `Graphene_Machine_v52.svg` in your browser - no installation needed!
 
-100 layers, with cross‑linking between layers to reinforce van der Waals forces and make graphene laminate instead of graphite.
+### What You'll See
+- **Rotating drum system** - 27-second synchronized cycle
+- **Triple CVD blades** - Blue, Green, Purple at 120° spacing
+- **Monel alloy shell** - High-temperature corrosion resistance
+- **Depth-aware rendering** - 64-segment Bezier helix animation
 
-100 mm wide, up to 10,000 mm wide for multiple folds lengthwise.
+---
 
-1 km per day, up to 10,000 km per day with parallel industrial production.
+## 🌟 About the Project
 
-Robust plug‑and‑play; just add electricity and Bacardi 151 (or less hepatoxic carbon precursor).
+The GMX visualizes a machine designed to produce graphene tethers - currently the best material for a space elevator. The space elevator concept replaces rockets with slow mechanical climbing up a 100,000 km tether.
 
-.
+### Current Build
+- **Width:** 9 mm (prototype)
+- **Tested:** up to 500°C
+- **Next:** 700°C sealed environment
 
-1000 thanks to Peter Swan and ISEC and JSEA And Obayashi
+### Design Goals
+- 100 GPa polycrystalline strength
+- 100 layers with cross-linking
+- 100 mm → 10,000 mm width scaling
+- 1 km/day → 10,000 km/day production
 
+---
 
+## 🛠️ For Developers
 
+Want to understand or modify the SVG? Check out:
 
+📖 **[DEVELOPERS.md](DEVELOPERS.md)** - Technical documentation and version history
 
+### Quick Start
+```bash
+# Just open the SVG file
+open Graphene_Machine_v52.svg
+
+# Or serve locally
+python3 -m http.server 8000
+```
+
+---
+
+## 📜 License
+
+MIT License - feel free to learn from, modify, or build upon this project!
+
+---
+
+## 🙏 Credits
+
+**Research Inspiration:** Peter Swan, ISEC, JSEA, Obayashi  
+**Wave Power Concept:** Blaise Gassend (2025)  
+**Related Project:** [Space Monkey Game](https://github.com/AtomInnovationTH/SMX)
+
+---
+
+**Want to see it in action?** [🎬 View Animation](https://atominnovationth.github.io/GMX/Graphene_Machine_v52.svg)
