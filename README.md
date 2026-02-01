@@ -63,7 +63,7 @@ MIT License - feel free to learn from, modify, or build upon this project!
 ## 🙏 Credits
 
 **Research Inspiration:** Peter Swan, ISEC, JSEA, Obayashi  
-**Wave Power Concept:** Blaise Gassend (2025)  
+**Vertical Wave Power Concept:** Blaise Gassend 
 **Related Project:** [Space Monkey Game](https://github.com/AtomInnovationTH/SMX)
 
 ---
